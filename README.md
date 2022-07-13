@@ -14,4 +14,16 @@ We use coingecko api for coins data .
 
 [API](https://www.coingecko.com/) 
 
+# Command for Run Project 
+
+1. Go to project root directory 
+
+npm run start
+nodemon ./Backend/index.js 
+
 # Overview of Project
+
+1. Main Page Overview 
+
+![Oveview1](./Overview/Indexpage1.png)
+![Oveview1](./Overview/Indexpage2.png)
