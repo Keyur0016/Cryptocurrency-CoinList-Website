@@ -31,4 +31,16 @@ nodemon ./Backend/index.js
 2. Signup Page 
 
 ![Oveview](./Overview/Signup.png)<br>
-![Oveview](./Overview/Signin.png) <br>
+![Oveview](./Overview/Signin.png) <br><br>
+
+3. Particular coin Information Overview
+
+![Oveview1](./Overview/Coin1.png)<br>
+![Oveview1](./Overview/Coin2.png)<br>
+![Oveview1](./Overview/Coin3.png)<br><br>
+
+4. Protfolio information Overview
+
+![Oveview1](./Overview/Account.png)
+
+
