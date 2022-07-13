@@ -25,9 +25,10 @@ nodemon ./Backend/index.js
 
 1. Main Page Overview 
 
-![Oveview1](./Overview/Indexpage1.png) <br> 
-![Oveview1](./Overview/Indexpage2.png)
+![Oveview](./Overview/Indexpage1.png) <br> 
+![Oveview](./Overview/Indexpage2.png) <br><br>
 
 2. Signup Page 
 
-![Oveview1](./Overview/Indexpage1.png)
+![Oveview](./Overview/Signup.png)<br>
+![Oveview](./Overview/Signin.png) <br>
